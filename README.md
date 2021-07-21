@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @writetosagnik
+-I’m interested in a lot of things, which I probably don't remember now
+-I’m currently learning Python
+-reach me at writeto.sagnik.pal@gmail.com
