@@ -1,11 +1,12 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:8420/1*e3jNfHQGTe7f7ptGpa74yA.png)
 
 <h1 align="center">Hi 👋, I'm Sagnik Pal</h1>
-<h3 align="center">An aspiring Android App Developer</h3>
+<h3 align="center">An aspiring Android App Developer📱and UI/UX Designer🖌️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=writetosagnik&label=Profile%20views&color=0e75b6&style=flat" alt="writetosagnik" /> </p>
 
 - 🌱 I’m currently learning **Android Development**
+- 🌟 I am also an AI/ML enthusiast.
 
 - 👨‍💻 All of my projects are available at [https://github.com/writetosagnik?tab=repositories](https://github.com/writetosagnik?tab=repositories)
 
