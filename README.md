@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:8420/1*e3jNfHQGTe7f7ptGpa74yA.png)
+![MasterHead]()
 
 # 💫 About Me:
 🔭 I’m currently working on refining my designing skills<br>🤝 I’m looking for help with a proper roadmap for backend development.<br>🌱 I’m currently learning the basics of AI/ML.<br>💬 Ask me about anything related to UI/UX and Product Designing.<br>⚡ Fun fact - I work much better under pressure
